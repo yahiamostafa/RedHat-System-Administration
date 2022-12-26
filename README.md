@@ -122,7 +122,8 @@ Age is 50
 		2) Accomodation ==> Hotels
 		3) Car Rentals
 
-	[image](/images/Screenshot from 2022-12-10 23-30-11.png)
+	![image](https://user-images.githubusercontent.com/61708947/209587680-2b532540-cc3f-4c77-b440-b28b6818919a.png)
+
 - Each group contains at least 6 users.
 - Each user contain at least two files user_info and welcome.
 --- 
@@ -656,15 +657,15 @@ df.to_csv('Flights/AirPorts.csv')
 ---
 ## User interface
 - using python and XML.
-![[/imagesScreenshot from 2022-12-17 21-44-00.png]]
+![image](https://user-images.githubusercontent.com/61708947/209587694-fd7d9f43-5ead-415a-9ad7-58b8be912242.png)
 
-![[images/Screenshot from 2022-12-17 21-45-17.png]]
+![image](https://user-images.githubusercontent.com/61708947/209587699-d66353f2-2a95-4520-95c3-ef0ee7a93f70.png)
 
-![[images/Screenshot from 2022-12-17 21-45-42.png]]
+![image](https://user-images.githubusercontent.com/61708947/209587706-f5713b3b-b36e-4aea-9cc5-925f581d28b6.png)
 
-![[images/Screenshot from 2022-12-17 21-46-10.png]]
+![image](https://user-images.githubusercontent.com/61708947/209587701-bd14b0c4-601c-4c6a-82c5-77cc98d004f4.png)
 
-![[images/Screenshot from 2022-12-17 21-46-40.png]]
+![image](https://user-images.githubusercontent.com/61708947/209587730-d4a1c765-1142-4afa-ad8a-7923ae51e353.png)
 
 --- 
 ## Bonus
@@ -701,7 +702,6 @@ Warning: Journal has been rotated since unit was started. Log output is incomple
 ## Summary
 
 
-![[images/Screenshot_from_2022-12-17_22-00-25-removebg-preview.png]] 
+![image](https://user-images.githubusercontent.com/61708947/209587740-db9bb5d4-dd5d-4754-90d1-688d80fb8fd8.png)
 
-![[images/Screenshot from 2022-12-17 22-27-29.png]]
-
+![Uploading image.png…]()
