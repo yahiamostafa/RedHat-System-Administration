@@ -122,7 +122,7 @@ Age is 50
 		2) Accomodation ==> Hotels
 		3) Car Rentals
 
-	![image](images/Screenshot from 2022-12-10 23-30-11.png)
+	![image](/images/Screenshot from 2022-12-10 23-30-11.png)
 - Each group contains at least 6 users.
 - Each user contain at least two files user_info and welcome.
 --- 
