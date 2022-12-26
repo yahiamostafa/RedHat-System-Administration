@@ -701,7 +701,7 @@ Warning: Journal has been rotated since unit was started. Log output is incomple
 ## Summary
 
 
-![[images/Screenshot_from_2022-12-17_22-00-25-removebg-preview.png]]
+![[images/Screenshot_from_2022-12-17_22-00-25-removebg-preview.png]] 
 
 ![[images/Screenshot from 2022-12-17 22-27-29.png]]
 
