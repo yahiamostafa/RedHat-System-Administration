@@ -122,7 +122,7 @@ Age is 50
 		2) Accomodation ==> Hotels
 		3) Car Rentals
 
-	![[Screenshot from 2022-12-10 23-30-11.png]]
+	![[images/Screenshot from 2022-12-10 23-30-11.png]]
 - Each group contains at least 6 users.
 - Each user contain at least two files user_info and welcome.
 --- 
@@ -656,15 +656,15 @@ df.to_csv('Flights/AirPorts.csv')
 ---
 ## User interface
 - using python and XML.
-![[Screenshot from 2022-12-17 21-44-00.png]]
+![[/imagesScreenshot from 2022-12-17 21-44-00.png]]
 
-![[Screenshot from 2022-12-17 21-45-17.png]]
+![[images/Screenshot from 2022-12-17 21-45-17.png]]
 
-![[Screenshot from 2022-12-17 21-45-42.png]]
+![[images/Screenshot from 2022-12-17 21-45-42.png]]
 
-![[Screenshot from 2022-12-17 21-46-10.png]]
+![[images/Screenshot from 2022-12-17 21-46-10.png]]
 
-![[Screenshot from 2022-12-17 21-46-40.png]]
+![[images/Screenshot from 2022-12-17 21-46-40.png]]
 
 --- 
 ## Bonus
@@ -701,9 +701,7 @@ Warning: Journal has been rotated since unit was started. Log output is incomple
 ## Summary
 
 
-![[Screenshot_from_2022-12-17_22-00-25-removebg-preview.png]]
+![[images/Screenshot_from_2022-12-17_22-00-25-removebg-preview.png]]
 
-![[Screenshot from 2022-12-17 22-27-29.png]]
+![[images/Screenshot from 2022-12-17 22-27-29.png]]
 
----
-**For codes and some system files https://github.com/yahiamostafa/RedHat-System-Administration **. 
