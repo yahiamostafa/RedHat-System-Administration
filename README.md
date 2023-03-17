@@ -584,6 +584,8 @@ other::r-x
 ```
 
  - To sum up the permissions
+
+
 Group Dirs | Allow | Deny 
 -- | -- |--
 IT| None|All
