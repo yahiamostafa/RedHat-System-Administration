@@ -582,6 +582,7 @@ group:Egypt:---
 mask::r-x
 other::r-x
 ```
+
  - To sum up the permissions
 Group Dirs | Allow | Deny 
 -- | -- |--
